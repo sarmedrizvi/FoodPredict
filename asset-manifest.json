@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FoodPredict/static/css/main.b2d2bfa2.chunk.css",
+    "main.js": "/FoodPredict/static/js/main.078ea025.chunk.js",
+    "main.js.map": "/FoodPredict/static/js/main.078ea025.chunk.js.map",
+    "runtime-main.js": "/FoodPredict/static/js/runtime-main.9c293709.js",
+    "runtime-main.js.map": "/FoodPredict/static/js/runtime-main.9c293709.js.map",
+    "static/js/2.523a3da4.chunk.js": "/FoodPredict/static/js/2.523a3da4.chunk.js",
+    "static/js/2.523a3da4.chunk.js.map": "/FoodPredict/static/js/2.523a3da4.chunk.js.map",
+    "index.html": "/FoodPredict/index.html",
+    "precache-manifest.f336e38baa140d92226a7fe70357348e.js": "/FoodPredict/precache-manifest.f336e38baa140d92226a7fe70357348e.js",
+    "service-worker.js": "/FoodPredict/service-worker.js",
+    "static/css/main.b2d2bfa2.chunk.css.map": "/FoodPredict/static/css/main.b2d2bfa2.chunk.css.map",
+    "static/js/2.523a3da4.chunk.js.LICENSE": "/FoodPredict/static/js/2.523a3da4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c293709.js",
+    "static/js/2.523a3da4.chunk.js",
+    "static/css/main.b2d2bfa2.chunk.css",
+    "static/js/main.078ea025.chunk.js"
+  ]
+}
