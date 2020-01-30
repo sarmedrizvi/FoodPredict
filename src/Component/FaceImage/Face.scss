@@ -1,0 +1,26 @@
+.face{
+	padding: 23px;
+	display: grid;
+	justify-content: center;
+	
+	.props{
+		display: flex;
+		flex-wrap: wrap;
+		width: 350px;
+		p{
+			padding: 0px 10px;
+			text-transform: uppercase;
+			font-weight: bolder;
+		}
+	}
+	
+	input{
+		padding: 20px;
+		position: relative;
+	}
+	img{
+		width: 300px;
+		height: 300px;
+		border: 23px;
+	}
+}
